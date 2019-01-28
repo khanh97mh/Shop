@@ -1,0 +1,15 @@
+C:\Visual Project\Shop\TeduShop.Service\bin\Debug\TeduShop.Service.dll
+C:\Visual Project\Shop\TeduShop.Service\bin\Debug\TeduShop.Service.pdb
+C:\Visual Project\Shop\TeduShop.Service\bin\Debug\TeduShop.Common.dll
+C:\Visual Project\Shop\TeduShop.Service\bin\Debug\TeduShop.Data.dll
+C:\Visual Project\Shop\TeduShop.Service\bin\Debug\TeduShop.Model.dll
+C:\Visual Project\Shop\TeduShop.Service\bin\Debug\TeduShop.Common.pdb
+C:\Visual Project\Shop\TeduShop.Service\bin\Debug\TeduShop.Data.pdb
+C:\Visual Project\Shop\TeduShop.Service\bin\Debug\TeduShop.Data.dll.config
+C:\Visual Project\Shop\TeduShop.Service\bin\Debug\TeduShop.Model.pdb
+C:\Visual Project\Shop\TeduShop.Service\bin\Debug\TeduShop.Model.dll.config
+C:\Visual Project\Shop\TeduShop.Service\obj\Debug\TeduShop.Service.csprojAssemblyReference.cache
+C:\Visual Project\Shop\TeduShop.Service\obj\Debug\TeduShop.Service.csproj.CoreCompileInputs.cache
+C:\Visual Project\Shop\TeduShop.Service\obj\Debug\TeduShop.Service.csproj.CopyComplete
+C:\Visual Project\Shop\TeduShop.Service\obj\Debug\TeduShop.Service.dll
+C:\Visual Project\Shop\TeduShop.Service\obj\Debug\TeduShop.Service.pdb

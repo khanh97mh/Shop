@@ -4,3 +4,9 @@ C:\Visual Project\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.csprojAssem
 C:\Visual Project\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.csproj.CoreCompileInputs.cache
 C:\Visual Project\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.dll
 C:\Visual Project\TeduShop\TeduShop.Common\obj\Debug\TeduShop.Common.pdb
+C:\Visual Project\Shop\TeduShop.Common\bin\Debug\TeduShop.Common.dll
+C:\Visual Project\Shop\TeduShop.Common\bin\Debug\TeduShop.Common.pdb
+C:\Visual Project\Shop\TeduShop.Common\obj\Debug\TeduShop.Common.csprojAssemblyReference.cache
+C:\Visual Project\Shop\TeduShop.Common\obj\Debug\TeduShop.Common.csproj.CoreCompileInputs.cache
+C:\Visual Project\Shop\TeduShop.Common\obj\Debug\TeduShop.Common.dll
+C:\Visual Project\Shop\TeduShop.Common\obj\Debug\TeduShop.Common.pdb

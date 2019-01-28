@@ -1,0 +1,14 @@
+C:\Visual Project\Shop\TeduShop.Data\bin\Debug\TeduShop.Data.dll.config
+C:\Visual Project\Shop\TeduShop.Data\bin\Debug\TeduShop.Data.dll
+C:\Visual Project\Shop\TeduShop.Data\bin\Debug\TeduShop.Data.pdb
+C:\Visual Project\Shop\TeduShop.Data\bin\Debug\EntityFramework.dll
+C:\Visual Project\Shop\TeduShop.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Visual Project\Shop\TeduShop.Data\bin\Debug\TeduShop.Common.dll
+C:\Visual Project\Shop\TeduShop.Data\bin\Debug\TeduShop.Common.pdb
+C:\Visual Project\Shop\TeduShop.Data\bin\Debug\EntityFramework.xml
+C:\Visual Project\Shop\TeduShop.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Visual Project\Shop\TeduShop.Data\obj\Debug\TeduShop.Data.csprojAssemblyReference.cache
+C:\Visual Project\Shop\TeduShop.Data\obj\Debug\TeduShop.Data.csproj.CoreCompileInputs.cache
+C:\Visual Project\Shop\TeduShop.Data\obj\Debug\TeduShop.Data.csproj.CopyComplete
+C:\Visual Project\Shop\TeduShop.Data\obj\Debug\TeduShop.Data.dll
+C:\Visual Project\Shop\TeduShop.Data\obj\Debug\TeduShop.Data.pdb
